@@ -1,3 +1,8 @@
+layout: post
+title: "Concurrency in Python"
+date: 2021-03-10 20:58:00 -0000
+categories: concurrency python
+
 # Concurrency in Python 🐍 🐍 🐍
 …and how to cook a banging roast dinner 🍖 /🥬 
 
